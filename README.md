@@ -26,5 +26,30 @@ An AI-powered web application that helps developers review their code by providi
 
 ---
 
-## 📁 Project Structure
+AI-Powered-Code-Reviewer/
+├── public/
+│ └── vite.svg
+├── src/
+│ ├── components/
+│ │ └── Navbar.jsx
+│ ├── App.jsx
+│ ├── App.css
+│ ├── main.jsx
+│ └── index.css
+├── index.html
+├── package.json
+├── vite.config.js
+└── eslint.config.js
+
+ Navigate to the project folder
+ cd AI-Powered-Code-Reviewer
+
+Install dependencies
+npm install
+
+Start the development server
+npm run dev
+
+The app will be available at:
+http://localhost:5173
 
