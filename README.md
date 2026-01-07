@@ -42,14 +42,21 @@ AI-Powered-Code-Reviewer/
 └── eslint.config.js
 
  Navigate to the project folder
+ 
  cd AI-Powered-Code-Reviewer
 
+
 Install dependencies
+
 npm install
 
+
 Start the development server
+
 npm run dev
 
+
 The app will be available at:
+
 http://localhost:5173
 
